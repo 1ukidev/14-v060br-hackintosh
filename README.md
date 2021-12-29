@@ -8,4 +8,4 @@ Caso você tenha visto algum problema crie um [issue](https://github.com/1ukidev
 ## Programas que é bom ter apôs a instalação:
 [HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Necessário para conseguir utilizar o Wi-Fi.
 
-[Android File Transfer](https://www.android.com/filetransfer) - Necessário para transferir arquivos entre macOS e um dispositivo Android (já me salvou uma vez).
+[Android File Transfer](https://www.android.com/filetransfer) - Necessário para transferir arquivos entre o macOS e um dispositivo Android (já me salvou uma vez).
