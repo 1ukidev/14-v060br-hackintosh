@@ -1,3 +1,4 @@
+PT-BR | [EN-US](README_EN.md)
 # Hackintosh no HP Pavilion 14-v060br
 Esse repositório conta com o EFI OpenCore 0.6.5 devidamente configurado para o notebook HP Pavilion 14-v060br.
 
