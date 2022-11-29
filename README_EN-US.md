@@ -4,7 +4,7 @@ This repository has EFI OpenCore 0.6.5 properly configured for HP Pavilion 14-v0
 
 Everything seems to be working correctly on macOS Catalina and Big Sur.
 
-If you have seen any problems create a [issue](https://github.com/1ukidev/14-v060br-hackintosh/issues/new).
+If you see a problem, create an [issue](https://github.com/1ukidev/14-v060br-hackintosh/issues/new).
 
 ## Softwares to have after installation:
 [HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Required to be able to use Wi-Fi.
