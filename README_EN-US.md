@@ -9,4 +9,4 @@ If you find a problem, create an [issue](https://github.com/1ukidev/14-v060br-ha
 ## Softwares to have after installation:
 [HeliPort](https://github.com/OpenIntelWireless/HeliPort) - Required to be able to use Wi-Fi.
 
-[Android File Transfer](https://www.android.com/filetransfer) - Required to transfer files between macOS and an Android device (already saved me once)
+[Android File Transfer](https://www.android.com/filetransfer) - Required to transfer files between macOS and an Android device.
